@@ -1,0 +1,13 @@
+{
+    "login": {
+        "email": "john@example.com",
+        "password": "password123"
+    },
+    "checkout": {
+        "name": "John Doe",
+        "pincode": "12345",
+        "address": "123 Test Street",
+        "city": "Test City",
+        "paymentMethod": "cod"
+    }
+}
