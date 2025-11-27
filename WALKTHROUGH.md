@@ -32,7 +32,8 @@ The AI agent launched the application and navigated through the complete user fl
 
 **Login Page**
 
-![Login Page](file:///C:/Users/mvsar/.gemini/antigravity/brain/fca11d98-a1a7-4105-9ad7-5e1e3d5bb305/login_page_1764222774201.png)
+<img width="888" height="964" alt="image" src="https://github.com/user-attachments/assets/2f0d54f4-6bc4-4750-a443-a81c0652551f" />
+
 
 - Identified email and password input fields
 - Located sign-in button
@@ -40,7 +41,8 @@ The AI agent launched the application and navigated through the complete user fl
 
 **Products Page**
 
-![Products Page](file:///C:/Users/mvsar/.gemini/antigravity/brain/fca11d98-a1a7-4105-9ad7-5e1e3d5bb305/products_page_1764222789300.png)
+<img width="888" height="964" alt="image" src="https://github.com/user-attachments/assets/3cce1083-c2ba-4d34-a49b-1469f7b8b01f" />
+
 
 - Discovered product catalog layout
 - Identified "Add to Cart" buttons
@@ -48,7 +50,8 @@ The AI agent launched the application and navigated through the complete user fl
 
 **Cart Page**
 
-![Cart Page](file:///C:/Users/mvsar/.gemini/antigravity/brain/fca11d98-a1a7-4105-9ad7-5e1e3d5bb305/cart_page_1764222808737.png)
+<img width="888" height="964" alt="image" src="https://github.com/user-attachments/assets/9d1020d2-378c-4db1-b038-c868d5fd72b3" />
+
 
 - Verified cart item display
 - Found "Proceed to Checkout" button
@@ -56,7 +59,8 @@ The AI agent launched the application and navigated through the complete user fl
 
 **Checkout Page**
 
-![Checkout Page](file:///C:/Users/mvsar/.gemini/antigravity/brain/fca11d98-a1a7-4105-9ad7-5e1e3d5bb305/checkout_page_1764222821376.png)
+<img width="888" height="964" alt="image" src="https://github.com/user-attachments/assets/17f6629b-bd41-4ee2-923c-0795367862e6" />
+
 
 - Identified all form fields (name, pincode, address, city)
 - Located payment method dropdown
@@ -64,7 +68,9 @@ The AI agent launched the application and navigated through the complete user fl
 
 **Order Confirmation**
 
-![Order Confirmation](file:///C:/Users/mvsar/.gemini/antigravity/brain/fca11d98-a1a7-4105-9ad7-5e1e3d5bb305/confirmation_page_1764222841608.png)
+
+<img width="888" height="964" alt="image" src="https://github.com/user-attachments/assets/503de6dd-3550-4545-a1d0-2f7f022de077" />
+
 
 - Verified success message display
 - Confirmed order ID generation
